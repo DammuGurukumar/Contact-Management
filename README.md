@@ -143,18 +143,18 @@ This implementation includes the following methods and functionalities:
 1. Ensure MySQL is running and the database is properly set up.
 2. Start the backend server:
 
-   ```bash
+   
    cd contacts-management-backend
    javac -d build src/*.java src/*/*.java
    java -cp build AppServer
-   ```
+   
 
 3. Start the frontend application:
 
-   ```bash
-   cd contacts-management-frontend
+   
+   cd contacts-management-ui
    npm start
-   ```
+   
 
    Access the application at `http://localhost:3000`.
 
