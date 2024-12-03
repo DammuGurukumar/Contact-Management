@@ -102,7 +102,7 @@ This Contacts Management Application allows users to manage their contact inform
 1. Navigate to the `frontend` directory:
 
    ```bash
-   cd contacts-management-frontend
+   cd contacts-management-ui
    ```
 
 2. Install the required dependencies:
